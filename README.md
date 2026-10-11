@@ -1,0 +1,1 @@
+# papol-market-analyzer
